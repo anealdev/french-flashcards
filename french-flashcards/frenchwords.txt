@@ -1,0 +1,12 @@
+
+
+ "qui","who","nous","we, us","y","there","mais","but","me","me, myself","plus","more","plus","more","non","not","mon","my",
+ "suis","am","dans","in","du","from, of","bien","well","elle","she","si","if","tout","all","Je suis","I am","Pouvoir","can,
+  to be able to","par","by","avec","with","va","will","toi","you","Il va","he goes, he is going","oui","yes","il fait","he does, he makes",
+  "il fait","he does, he makes","ils","they","il a","he has","être","to be","faire","to do, to make","comme","as","quoi","what",
+  "ici","here","Je sais","I know","Je veux","I want","là","there","au","to","rien","nothing","ici","here","veux","want","ma","my",
+  "où","where","","","pourquoi","why","quand","when","Je vais","I go, I am going","Je peux","I can","dire","to say","alors","then",
+  "autre","other","nouveau","new","aller","to go","temps","time","savoir","to know","voir","to see","sans","without","jour","day",
+  "an","year","monde","world","après","after","personne","person","venir","to come","peu","little","semaine","week","son","its",
+  "ton","your","seconde","second","seconde","second","heure","hour","minute","minute","comment","how","avez","have","bon","good",
+  "ou","or","très","very","merci","thank you","même","same","jamais","never","aussi","also","tous","all"
